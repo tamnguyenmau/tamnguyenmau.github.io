@@ -1086,6 +1086,11 @@ button:focus {
 .social__link:first-child {
   margin-left: 0;
 }
+.linkcv {
+  display: flex;
+  justify-content: center;
+  padding-top:1rem;
+}
 
 /* -----------------------------------------------------------------
     - Navbar
@@ -2466,7 +2471,7 @@ button:focus {
 .js-parallax .profile-content {
   position: absolute;
   top: 30%;
-  left: 44%;
+  left: 40%;
 }
 .js-parallax-img {
   position: relative;
